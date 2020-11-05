@@ -3,7 +3,7 @@ title: Gadabout
 author: Rex Marzke
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Topics from my software development meanderings.
+  This and that: usually software development related.
 show_excerpts: true
 
 #theme: minima
