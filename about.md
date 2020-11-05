@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software application architect who's been working a long time.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+See my [LinkedIn profile](https://www.linkedin.com/in/rex-marzke-b895237/)
