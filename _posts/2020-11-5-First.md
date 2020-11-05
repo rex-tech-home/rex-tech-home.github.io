@@ -1,0 +1,12 @@
+---
+layout: post
+title: Moving to GitHub pages + Jekyll
+---
+
+I've decided to try technical blogging here.
+
+I hate having to learn a bunch of new stuff, just to do the simplest of things. But, that is the way of the world.
+
+<!---
+![_config.yml]({{ site.baseurl }}/images/config.png)
+	--->
