@@ -4,10 +4,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: rex-tech
+title: rex-tech
+author: Rex Marzke
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: > # this means to ignore newlines until "show_excerpts:"
+  Tech stuff
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +23,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+#  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
@@ -85,6 +89,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-=======
-theme: jekyll-theme-minimal
+======
+remote_theme: jekyll/minima
+#theme: jekyll-theme-minimal
 >>>>>>> b27cf27d35207d2dceb900595c0a60303b45149c
